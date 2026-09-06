@@ -2,7 +2,7 @@
 
 Aspiring <b>Data / ML Engineer</b> focused on <b>Data Engineering</b>, <b>Machine Learning</b>, and <b>Computer Vision</b>. I'm passionate about building models and pipelines that go from raw data to deployed, real-world systems.
 
-🌱 Currently working on: [ARIS](https://github.com/leyowi/aris-corn-leaf), a computer vision-based corn leaf disease detection system for an autonomous agricultural rover
+👨🏻‍💻 Currently working on: [ARIS](https://github.com/leyowi/aris-corn-leaf), a computer vision-based corn leaf disease detection system for an autonomous agricultural rover
 
 ---
 
@@ -25,7 +25,6 @@ Aspiring <b>Data / ML Engineer</b> focused on <b>Data Engineering</b>, <b>Machin
 #### 👁️ Computer Vision Projects
 
 - [ARIS](https://github.com/leyowi/aris-corn-leaf) : CV-based monitoring system for corn leaf disease detection on an agricultural rover with GPS geo-tagging and a web dashboard
-- [Coconut Maturity Detection](https://github.com/leyowi/coconut-maturity-detection) : YOLOv8s model classifying coconut maturity (Mature vs. Premature), ~85.85% mAP50
 - [AINailSys](https://github.com/leyowi/ainailsys) : Anemia detection and nail abnormality classifier (PyTorch/ResNet18) deployed on Raspberry Pi 5 via ONNX, ~98.41% accuracy
 
 ---
