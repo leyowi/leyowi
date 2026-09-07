@@ -1,4 +1,4 @@
-# Hi, I'm Leouie👋
+# Hi, I'm Leouie (˶ᵔᗜᵔ˶)ﾉﾞ
 
 Aspiring <b>Data / ML Engineer</b> focused on <b>Data Engineering</b>, <b>Machine Learning</b>, and <b>Computer Vision</b>. I'm passionate about building models and pipelines that go from raw data to deployed, real-world systems.
 
