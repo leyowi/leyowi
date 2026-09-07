@@ -24,8 +24,8 @@ Aspiring <b>Data / ML Engineer</b> focused on <b>Data Engineering</b>, <b>Machin
 
 #### 🤖 Computer Vision Projects
 
-- [ARIS](https://github.com/leyowi/aris-corn-leaf) : CV-based monitoring system for corn leaf disease detection on an agricultural rover with GPS geo-tagging and a web dashboard
-- [AINailSys](https://github.com/leyowi/ainailsys) : Anemia detection and nail abnormality classifier (PyTorch/ResNet18) deployed on Raspberry Pi 5 via ONNX, ~98.41% accuracy
+- [ARIS](https://github.com/leyowi/aris-corn-leaf) : CV-based monitoring system for corn leaf disease detection on a rover with GPS geo-tagging and a web dashboard
+- [AINailSys](https://github.com/leyowi/ainailsys) : Anemia detection and nail abnormality classifier deployed on Raspberry Pi 5 via ONNX, ~98.41% accuracy
 
 ---
 
@@ -34,7 +34,6 @@ Aspiring <b>Data / ML Engineer</b> focused on <b>Data Engineering</b>, <b>Machin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge)
-![ResNet](https://img.shields.io/badge/ResNet-4B8BBE?style=for-the-badge)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
