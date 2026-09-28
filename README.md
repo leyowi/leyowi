@@ -6,7 +6,7 @@ Aspiring <b>Data / ML Engineer</b> focused on <b>Data Engineering</b>, <b>Machin
 
 ---
 
-## 🚀 Projects I've worked on
+## 🚀 Personal Projects I've worked on
 
 #### 📊 Data Engineering / Analysis Projects
 
