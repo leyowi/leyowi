@@ -25,7 +25,7 @@ Aspiring <b>Data / ML Engineer</b> focused on <b>Data Engineering</b>, <b>Machin
 #### 🤖 Computer Vision Projects
 
 - [ARIS](https://github.com/leyowi/aris-corn-leaf) : CV-based monitoring system for corn leaf disease detection on a rover with GPS geo-tagging and a web dashboard
-- [AINailSys](https://github.com/leyowi/ainailsys) : Anemia detection and nail abnormality classifier deployed on Raspberry Pi 5 via ONNX, ~98.41% accuracy
+- [AINailSys](https://github.com/leyowi/ainailsys) : Non-invasive early anemia detection and nail abnormality classifier deployed on Raspberry Pi 5 via ONNX
 
 ---
 
