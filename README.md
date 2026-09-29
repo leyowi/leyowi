@@ -13,7 +13,8 @@ Aspiring <b>Data / ML Engineer</b> focused on <b>Data Engineering</b>, <b>Machin
 <!-- Template — replace with your project once ready:
 - [Project Name](repo-link) : One-line description of the pipeline/analysis and the tech stack used (e.g. SQL, Airflow, Power BI, AWS, Snowflake)
 -->
-- 🚧 Coming soon
+- Synthetic Data Modeling: Eskwelabs
+- Dashboard Utilization Automation: MERALCO
 
 #### 🧠 Machine Learning Projects
 
