@@ -25,6 +25,7 @@ Aspiring <b>Data / ML Engineer</b> focused on <b>Data Engineering</b>, <b>Machin
 #### 🤖 Computer Vision Projects
 
 - [ARIS](https://github.com/leyowi/aris-corn-leaf) : CV-based monitoring system for corn leaf disease detection on a rover with GPS geo-tagging and a web dashboard
+- [CocoMature](https://github.com/leyowi/coconut-maturity-detection) : YOLOv8-based coconut maturity classifier using amodal annotation and Grad-CAM explainability for smart harvesting
 - [AINailSys](https://github.com/leyowi/ainailsys) : Non-invasive early anemia detection and nail abnormality classifier deployed on Raspberry Pi 5 via ONNX
 
 ---
